@@ -11,7 +11,6 @@ export const Transactions = styled.table`
 `;
 
 export const Thead = styled.thead`
-  //   border: solid black 1px;
   background-color: lightblue;
 `;
 export const Theadcells = styled.th`
@@ -19,9 +18,7 @@ export const Theadcells = styled.th`
   //   display: grid;
 `;
 
-export const Tbody = styled.tbody`
-  //   border-bottom: solid black 1px;
-`;
+export const Tbody = styled.tbody``;
 export const Trows = styled.tr`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
